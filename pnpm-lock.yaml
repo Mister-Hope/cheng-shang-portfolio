@@ -8,12 +8,18 @@ devDependencies:
   '@vuepress/bundler-vite':
     specifier: 2.0.0-rc.8
     version: 2.0.0-rc.8
+  '@vuepress/helper':
+    specifier: 2.0.0-rc.18
+    version: 2.0.0-rc.18(vuepress@2.0.0-rc.8)
   vue:
     specifier: ^3.4.16
     version: 3.4.21
   vuepress:
     specifier: 2.0.0-rc.8
     version: 2.0.0-rc.8(@vuepress/bundler-vite@2.0.0-rc.8)(vue@3.4.21)
+  vuepress-shared:
+    specifier: 2.0.0-rc.27
+    version: 2.0.0-rc.27(vuepress@2.0.0-rc.8)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.27
     version: 2.0.0-rc.27(markdown-it@14.0.0)(vuepress@2.0.0-rc.8)
