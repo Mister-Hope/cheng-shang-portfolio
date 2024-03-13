@@ -1,4 +1,8 @@
 ---
 layout: Home
-title: Hi, I am ShangCheng!
+title: Home
+icon: home
+heroFullScreen: true
+heroImage: /hero.png
+tagline: Welcome to my site!
 ---
