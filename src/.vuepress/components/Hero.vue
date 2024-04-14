@@ -6,10 +6,11 @@ import {
   useSiteLocaleData,
   withBase,
 } from "vuepress/client";
-import DropTransition from "vuepress-theme-hope/components/transitions/DropTransition.js";
+import { DropTransition } from "vuepress-theme-hope/components/transitions/DropTransition.js";
 import SlideDownIcon from "./icons/SlideDownIcon.vue";
 
 import { useAuthorInfo } from "../composables/index.js";
+
 interface HomeFrontmatter {
   heroText?: string;
   tagline?: string;
