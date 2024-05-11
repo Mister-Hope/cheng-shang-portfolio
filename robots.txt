@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://shangcheng.innenu.com/sitemap.xml
+Sitemap: https://shangcheng.me/sitemap.xml
