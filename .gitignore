@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+.npmrc
+
+# VuePress
+**/.vuepress/.cache/
+**/.vuepress/.temp/
+**/.vuepress/dist/

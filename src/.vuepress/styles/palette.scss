@@ -1,0 +1,4 @@
+@use "sass:color";
+
+$theme-color: #096dd9;
+$theme-color-border: color.change($theme-color, $alpha: 0.3);

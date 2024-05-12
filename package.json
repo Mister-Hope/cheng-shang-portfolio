@@ -1,0 +1,22 @@
+{
+  "name": "cheng-shang-portfolio",
+  "private": true,
+  "description": "Cheng Shang portfolio website",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://cheng-shang.me",
+  "scripts": {
+    "build": "vuepress-vite build src",
+    "clean-dev": "vuepress-vite dev src --clean-cache",
+    "dev": "vuepress-vite dev src",
+    "update": "pnpm dlx vp-update"
+  },
+  "dependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.9",
+    "@vuepress/helper": "2.0.0-rc.28",
+    "@vuepress/plugin-redirect": "2.0.0-rc.29",
+    "vue": "3.4.27",
+    "vuepress": "2.0.0-rc.9",
+    "vuepress-theme-hope": "2.0.0-rc.42"
+  }
+}
