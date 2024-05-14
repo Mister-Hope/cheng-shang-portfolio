@@ -27,7 +27,6 @@ medias:
     name: Google Scholar
     link: https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN
 
-content: true
 footer: false
 ---
 

@@ -29,7 +29,6 @@ medias:
     name: 谷歌学术
     link: https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN
 
-content: true
 footer: false
 ---
 
@@ -44,7 +43,7 @@ footer: false
   - 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
   - RIKEN 邮箱: <cheng.shang@riken.jp>
 
-- **ORCID**: [0000-0001-8393-2329](https://orcid.org/)
+- **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
 - **谷歌学术**: [尚程](https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN)
 
