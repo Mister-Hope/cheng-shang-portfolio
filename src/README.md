@@ -51,17 +51,21 @@ footer: false
 
 <Experiences :items="experiences" />
 
+## News
+
+- [The 5th International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS-2023)](https://en.baqis.ac.cn/news/detail/?cid=1764)
+
 ## Representative Honors and Awards
 
-- 2023 Best Poster Award at the Conference, International Symposium on Quantum Physics and Quantum Information Sciences.
+- 2023 Best Poster Award, the 5th International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS-2023).
 - 2021 Japanese Government (MEXT) Doctoral Scholarships.
 - 2019 Chinese National Scholarship for Postgraduates.
 
-## Doctoral Dissertation Topic
+## Doctoral Dissertation
 
 Operator Analyses of Open Quantum Systems
 
-## Master’s Thesis Topic
+## Master’s Thesis
 
 Nonreciprocal Transmission Based on Modulated Optomechanical Systems
 
