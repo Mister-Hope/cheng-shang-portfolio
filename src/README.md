@@ -4,6 +4,7 @@ portfolio: true
 title: ""
 shortTitle: Home
 icon: home
+name: SHANG CHENG
 # avatar: /portfolio.avif
 bgImage: /background.avif
 titles:
