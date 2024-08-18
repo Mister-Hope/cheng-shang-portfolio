@@ -113,13 +113,13 @@ const experiences = [
     type: 'work',
     place: "量子计算中心，分析量子复杂性 RIKEN Hakubi 研究团队",
     time: "2023 年 4 月 - 2024 年 9 月",
-    title: "初级研究员，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>桑原 知剛</a>博士",
+    title: "初级研究员，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>桑原知剛</a>博士",
   },
   {
     type: 'work',
     place: "量子计算中心，分析量子复杂性 RIKEN Hakubi 研究团队",
     time: "2024 年 10 月 - 至今",
-    title: "博士后，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>桑原 知剛</a>博士",
+    title: "博士后，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>桑原知剛</a>博士",
   },
 ];
 </script>
