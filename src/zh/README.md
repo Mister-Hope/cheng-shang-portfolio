@@ -63,7 +63,7 @@ footer: false
 
 ## 博士论文
 
-开放量子系统的算子分析
+抑制开放量子系统中的退相干：共振与拓扑效应
 
 ## 硕士论文
 
@@ -74,9 +74,9 @@ footer: false
 1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, Cheng Shang, Topological Quantum Batteries, arXiv preprint arXiv:2405.03675 (2024)](https://arxiv.org/abs/2405.03675)
 1. [Cheng Shang and Hong-Chao Li, Resonance-dominant optomechanical entanglement in open quantum systems, Physical Review Applied 21 (4), 044048 (2024)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.044048)
 1. [Cheng Shang, Hayato Kinkawa, and Tomotaka Kuwahara, Equivalence between operator spreading and information propagation, 日本物理学会講演概要集 79. 1, 753 (2024)](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=HwEOkQEAAAAJ&sortby=pubdate&citation_for_view=HwEOkQEAAAAJ:roLk4NBRz8UC)
-1. [ZhiGuang Lu, Cheng Shang, Ying Wu, Xin-You Lü, Analytical approach to higher-order correlation functions in U(1) symmetric systems, Physical Review A 108, 053703 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.053703)
+1. [Zhi-Guang Lu, Cheng Shang, Ying Wu, Xin-You Lü, Analytical approach to higher-order correlation functions in U(1) symmetric systems, Physical Review A 108, 053703 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.053703)
 1. [Cheng Shang, Coupling enhancement and symmetrization of single-photon optomechanics in open quantum systems, arXiv preprint arXiv:2302.04897 (2023)](https://arxiv.org/abs/2302.04897)
-1. [HY Sun, Cheng Shang, XX Luo, YH Zhou, Hong-Zhi Shen, Optical-assisted Photon Blockade in a Cavity System via Parametric Interactions, International Journal of Theoretical Physics 58, 3640-3650 (2019)](https://link.springer.com/article/10.1007/s10773-019-04229-x)
+1. [H. Y. Sun, Cheng Shang, XX Luo, YH Zhou, Hong-Zhi Shen, Optical-assisted Photon Blockade in a Cavity System via Parametric Interactions, International Journal of Theoretical Physics 58, 3640-3650 (2019)](https://link.springer.com/article/10.1007/s10773-019-04229-x)
 1. [Cheng Shang, Hong-Zhi Shen, Xue-Xi Yi, Nonreciprocity in a strongly coupled three-mode optomechanical circulatory system, Optics Express 27 (18), 25882-25901 (2019)](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25882&id=417227)
 1. [Hong-Zhi Shen, Cheng Shang, YH Zhou, Xue-Xi Yi, Unconventional single-photon blockade in non-Markovian systems, Physical Review A 98 (2), 023856 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.023856)
 
@@ -89,9 +89,9 @@ const experiences = [
   {
     type: 'study',
     place: "东京大学，日本",
-    title: "博士",
-    time: "2021 年 10 月 - 至今",
-    content: "物理系<br>预计 2024 年 9 月毕业",
+    title: "博士，和<a href='https://hatano-lab.iis.u-tokyo.ac.jp/index-e.html' target='_blank'>Naomichi Hatano</a>教授",
+    time: "2021 年 10 月 - 2024 年 9 月",
+    content: "物理系",
   },
   {
     type: 'study',
@@ -103,14 +103,20 @@ const experiences = [
     type: 'study',
     place: "东北师范大学，中国",
     time: "2017 年 9 月 - 2020 年 6 月",
-    title: "理学硕士",
+    title: "理学硕士，和<a href='https://cqs.nenu.edu.cn/' target='_blank'>衣学喜</a>教授",
     description: "物理学院",
   },
-    {
+  {
     type: 'work',
     place: "量子计算中心，分析量子复杂性 RIKEN Hakubi 研究团队",
     time: "2023 年 4 月 - 2024 年 9 月",
-    title: "初级研究员",
+    title: "初级研究员，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>Tomotaka Kuwahara</a>博士",
+  },
+  {
+    type: 'work',
+    place: "量子计算中心，分析量子复杂性 RIKEN Hakubi 研究团队",
+    time: "2024 年 10 月 - 至今",
+    title: "博士后，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>Tomotaka Kuwahara</a>博士",
   },
 ];
 </script>

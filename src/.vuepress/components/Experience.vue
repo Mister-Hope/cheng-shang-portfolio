@@ -36,10 +36,12 @@ defineProps<{ item: ExperienceItem }>();
         </div>
       </div>
     </div>
-    <h5 v-if="item.place" class="vp-experience-item">{{ item.place }}</h5>
-    <h5 v-if="item.title" class="vp-experience-item">{{ item.title }}</h5>
-    <p v-if="item.description">{{ item.description }}</p>
-    <div v-else v-html="item.content" />
+    <h5 v-if="item.place" class="vp-experience-item" v-html="item.place" />
+    <h5 v-if="item.title" class="vp-experience-item" v-html="item.title" />
+    <p v-if="item.description" class="vp-experience-description">
+      {{ item.description }}
+    </p>
+    <div v-else class="vp-experience-description" v-html="item.content" />
   </div>
 </template>
 
@@ -81,17 +83,16 @@ defineProps<{ item: ExperienceItem }>();
 .vp-experience-badge-icon {
   background: var(--theme-color);
   color: var(--white);
-  width: 42px;
-  height: 42px;
+  width: 22px;
+  height: 22px;
+  padding: 10px;
   text-align: center;
   border-radius: 50%;
   font-weight: 600;
-  line-height: 42px;
-  font-size: 21px;
 
   .icon {
-    width: 1em;
-    height: 1em;
+    width: 22px;
+    height: 22px;
   }
 }
 
@@ -109,5 +110,10 @@ defineProps<{ item: ExperienceItem }>();
   font-weight: 600;
   font-size: 16px;
   margin: 0 0 15px;
+}
+
+.vp-experience-description {
+  font-style: italic;
+  font-size: 15px;
 }
 </style>
