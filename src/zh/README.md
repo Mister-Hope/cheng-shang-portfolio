@@ -92,7 +92,7 @@ const experiences = [
   {
     type: 'study',
     place: "东京大学，日本",
-    title: "博士，和<a href='https://hatano-lab.iis.u-tokyo.ac.jp/index-e.html' target='_blank'>Naomichi Hatano</a>教授",
+    title: "博士，和<a href='http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html' target='_blank'>Naomichi Hatano</a>教授",
     time: "2021 年 10 月 - 2024 年 9 月",
     content: "物理系",
   },
