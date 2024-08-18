@@ -7,6 +7,6 @@ export default defineClientConfig({
     app.component("Experiences", Experiences);
   },
   setup() {
-    setupTransparentNavbar({ light: "#333" });
+    setupTransparentNavbar({ light: "#333", dark: "#fff" });
   },
 });
