@@ -5,6 +5,8 @@ icon: home
 title: ""
 shortTitle: 主页
 # avatar: /portfolio.avif
+avatarStyle:
+  display: none
 bgImage: /background.avif
 titles:
   - 阳光男孩

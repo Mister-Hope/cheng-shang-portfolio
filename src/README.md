@@ -6,6 +6,8 @@ shortTitle: Home
 icon: home
 name: SHANG CHENG
 # avatar: /portfolio.avif
+avatarStyle:
+  display: none
 bgImage: /background.avif
 titles:
   - Sunny Boy
