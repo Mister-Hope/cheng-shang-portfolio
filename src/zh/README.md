@@ -66,7 +66,7 @@ footer: false
 
 ## 博士论文
 
-抑制开放量子系统中的退相干：共振与拓扑效应
+开放量子系统中的退相干抑制：共振与拓扑效应
 
 ## 硕士论文
 
@@ -92,7 +92,7 @@ const experiences = [
   {
     type: 'study',
     place: "东京大学，日本",
-    title: "博士，和<a href='http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html' target='_blank'>Naomichi Hatano</a>教授",
+    title: "博士，和<a href='http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html' target='_blank'>羽田野直道</a>教授",
     time: "2021 年 10 月 - 2024 年 9 月",
     content: "物理系",
   },
@@ -113,13 +113,13 @@ const experiences = [
     type: 'work',
     place: "量子计算中心，分析量子复杂性 RIKEN Hakubi 研究团队",
     time: "2023 年 4 月 - 2024 年 9 月",
-    title: "初级研究员，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>Tomotaka Kuwahara</a>博士",
+    title: "初级研究员，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>桑原 知剛</a>博士",
   },
   {
     type: 'work',
     place: "量子计算中心，分析量子复杂性 RIKEN Hakubi 研究团队",
     time: "2024 年 10 月 - 至今",
-    title: "博士后，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>Tomotaka Kuwahara</a>博士",
+    title: "博士后，和<a href='https://kuwahara-quantum.com/en/' target='_blank'>桑原 知剛</a>博士",
   },
 ];
 </script>
