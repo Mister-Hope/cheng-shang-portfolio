@@ -82,9 +82,9 @@ export default defineUserConfig({
     },
 
     plugins: {
+      markdownHint: false,
       mdEnhance: {
         align: true,
-        hint: false,
       },
       photoSwipe: false,
       redirect: { switchLocale: "modal" },

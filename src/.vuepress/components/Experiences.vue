@@ -14,7 +14,7 @@ const experiences = computed(() => props.items ?? []);
 
 <template>
   <div class="vp-experiences">
-    <Experience v-for="item in experiences" :key="item.name" :item="item" />
+    <Experience v-for="item in experiences" :item="item" />
   </div>
 </template>
 

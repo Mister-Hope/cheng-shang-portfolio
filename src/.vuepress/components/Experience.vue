@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { computed } from "vue";
 import StudyIcon from "./icons/StudyIcon.vue";
 import WorkIcon from "./icons/WorkIcon.vue";
 export interface ExperienceItem {
@@ -50,13 +49,13 @@ defineProps<{ item: ExperienceItem }>();
   position: relative;
   top: 0;
   padding: 30px;
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--vp-c-border);
   border-radius: 8px;
-  background: var(--bg-color);
+  background: var(--vp-c-bg);
   transition: ease all 0.35s;
 
   &:hover {
-    box-shadow: 0 4px 10px 0 var(--card-shadow);
+    box-shadow: 0 4px 10px 0 var(--vp-c-shadow);
     top: -2px;
   }
 }
@@ -81,8 +80,8 @@ defineProps<{ item: ExperienceItem }>();
 }
 
 .vp-experience-badge-icon {
-  background: var(--theme-color);
-  color: var(--white);
+  background: var(--vp-c-accent);
+  color: var(--vp-c-white);
   width: 22px;
   height: 22px;
   padding: 10px;
@@ -98,8 +97,8 @@ defineProps<{ item: ExperienceItem }>();
 
 .vp-experience-badge-body {
   flex: 1;
-  background: var(--theme-color);
-  color: var(--white);
+  background: var(--vp-c-accent);
+  color: var(--vp-c-white);
   padding: 6px 12px 6px 16px;
   font-size: 12px;
   margin: 0 0 0 -10px;
