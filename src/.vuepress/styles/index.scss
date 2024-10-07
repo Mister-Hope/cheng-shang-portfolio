@@ -14,14 +14,14 @@
 
 .vp-portfolio-welcome,
 .vp-portfolio-title {
-  color: var(--black);
+  color: var(--vp-c-black);
 }
 
 .vp-portfolio-mask::after {
   background-color: rgba(255, 255, 255);
   opacity: 0.15;
 
-  html[data-theme="dark"] & {
+  [data-theme="dark"] & {
     background-color: rgba(0, 0, 0);
     opacity: 0.1;
   }

@@ -4,7 +4,6 @@ portfolio: true
 icon: home
 title: ""
 shortTitle: 主页
-# avatar: /portfolio.avif
 avatarStyle:
   display: none
 bgImage: /background.avif
@@ -50,6 +49,8 @@ footer: false
 
 - **谷歌学术**: [尚程](https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN)
 
+- **iNSPIRE**: [尚程](https://inspirehep.net/authors/2662928)
+
 - **个人爱好**: 街舞（地板舞）、五子棋、音乐、跑步……
 
 ## 教育经历
@@ -66,11 +67,11 @@ footer: false
 
 ## 博士论文
 
-开放量子系统中的退相干抑制：共振与拓扑效应
+[开放量子系统中的退相干抑制：共振与拓扑效应](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2024/thesis_shang.pdf)
 
 ## 硕士论文
 
-基于调制光机械系统的不可逆传输
+[基于可控光力系统的非互易传输](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEp3keNUa73wzZt2qsRh5sWMxp5xQXa5xpBeTgFa1dFLKxs8M76AJIPfu9z0sGis4GQV4nGLHFPKoy1SHuG1EKoQBfxTZbDpPTdVr8t6MkR_5gBEUgaza4vOHMjGLqFT4ignRy17YZpEbU2JEKK8t6AyW5ra24e4BX52qtBj5VUVcz2R5MufKnOYWiJbdYuAjEI=&language=CHS)
 
 ## 发表内容
 

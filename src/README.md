@@ -5,7 +5,6 @@ title: ""
 shortTitle: Home
 icon: home
 name: SHANG CHENG
-# avatar: /portfolio.avif
 avatarStyle:
   display: none
 bgImage: /background.avif
@@ -49,6 +48,8 @@ footer: false
 
 - **Google Scholar**: [Cheng Shang](https://scholar.google.com/citations?user=HwEOkQEAAAAJ)
 
+- **iNSPIRE**: [Cheng Shang](https://inspirehep.net/authors/2662928)
+
 - **Hobby**: B-boying (Breaking), Gomoku, music, running...
 
 ## Education
@@ -65,11 +66,11 @@ footer: false
 
 ## Doctoral Dissertation
 
-Suppression of Decoherence in Open Quantum Systems: Resonance and Topological Effects
+[Suppression of Decoherence in Open Quantum Systems: Resonance and Topological Effects](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2024/thesis_shang.pdf)
 
 ## Master’s Thesis
 
-Nonreciprocal Transmission Based on Modulated Optomechanical Systems
+[Nonreciprocal Transmission Based on Modulated Optomechanical Systems](https://service.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020826922.nh&uniplatform=OVERSEA&v=sSt0KBptiamCrq479eV4U9pQ6d_R80JGZPYorfpc6t2brw3BtiU0cM6tkMERVLXW)
 
 ## Publications
 
