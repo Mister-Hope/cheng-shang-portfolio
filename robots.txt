@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://shangcheng.me/sitemap.xml
+Sitemap: https://cheng-shang.me/sitemap.xml
