@@ -48,6 +48,8 @@ footer: false
 
 ## 个人信息
 
+<div style="font-size: 1.2em">
+
 - <FontIcon icon="user" /> **姓名**: 尚程
 
 - <FontIcon icon="building-user" /> **所属机构**: 东京大学物理系。
@@ -68,6 +70,8 @@ footer: false
 
 - <FontIcon icon="heart" /> **个人爱好**: 街舞（地板舞）、五子棋、音乐、跑步……
 
+</div>
+
 ## 教育经历
 
 <Experiences :items="experiences" />
@@ -82,11 +86,19 @@ footer: false
 
 ## 博士论文
 
+::: center
+
 [开放量子系统中的退相干抑制：共振与拓扑效应](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2024/thesis_shang.pdf)
+
+:::
 
 ## 硕士论文
 
+::: center
+
 [基于可控光力系统的非互易传输](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEp3keNUa73wzZt2qsRh5sWMxp5xQXa5xpBeTgFa1dFLKxs8M76AJIPfu9z0sGis4GQV4nGLHFPKoy1SHuG1EKoQBfxTZbDpPTdVr8t6MkR_5gBEUgaza4vOHMjGLqFT4ignRy17YZpEbU2JEKK8t6AyW5ra24e4BX52qtBj5VUVcz2R5MufKnOYWiJbdYuAjEI=&language=CHS)
+
+:::
 
 ## 发表内容
 

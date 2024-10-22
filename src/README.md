@@ -47,6 +47,8 @@ footer: false
 
 ## About me
 
+<div style="font-size: 1.2em">
+
 - <FontIcon icon="user" /> **Name**: Cheng Shang
 
 - <FontIcon icon="building-user" /> **Affiliation**: Department of Physics, The University of Tokyo.
@@ -67,6 +69,8 @@ footer: false
 
 - <FontIcon icon="heart" /> **Hobby**: B-boying (Breaking), Gomoku, music, running...
 
+</div>
+
 ## Education
 
 <Experiences :items="experiences" />
@@ -81,11 +85,19 @@ footer: false
 
 ## Doctoral Dissertation
 
+::: center
+
 [Suppression of Decoherence in Open Quantum Systems: Resonance and Topological Effects](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2024/thesis_shang.pdf)
+
+:::
 
 ## Master’s Thesis
 
+::: center
+
 [Nonreciprocal Transmission Based on Modulated Optomechanical Systems](https://service.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020826922.nh&uniplatform=OVERSEA&v=sSt0KBptiamCrq479eV4U9pQ6d_R80JGZPYorfpc6t2brw3BtiU0cM6tkMERVLXW)
+
+:::
 
 ## Publications
 
