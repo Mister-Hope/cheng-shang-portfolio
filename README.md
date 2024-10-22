@@ -1,6 +1,6 @@
 # Cheng Shang Portfolio
 
-This is a personal portfolio website for Cheng Shang, and can be accessed at [https://shangcheng.me](https://shangcheng.me).
+This is a personal portfolio website for Cheng Shang, and can be accessed at [https://cheng-shang.me/](https://cheng-shang.me/).
 
 The site is built with [VuePress](https://vuepress.vuejs.org/), a static site generator powered by Vue.js, using [VuePress Theme Hope](https://theme-hope.vuejs.press/) and hosted on [Netlify](https://netlify.com/).
 

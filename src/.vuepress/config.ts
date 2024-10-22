@@ -18,13 +18,13 @@ export default defineUserConfig({
   },
 
   theme: hopeTheme({
-    hostname: "https://shangcheng.me",
+    hostname: "https://cheng-shang.me/",
     favicon: "/favicon.ico",
     iconAssets: "fontawesome-with-brands",
 
     author: {
       name: "Cheng Shang",
-      url: "https://shangcheng.me",
+      url: "https://cheng-shang.me/",
     },
 
     sidebar: false,
@@ -62,7 +62,7 @@ export default defineUserConfig({
       "/zh/": {
         author: {
           name: "尚程",
-          url: "https://shangcheng.me",
+          url: "https://cheng-shang.me/",
         },
 
         navbar: [

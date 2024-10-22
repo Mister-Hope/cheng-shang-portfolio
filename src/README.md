@@ -51,7 +51,7 @@ footer: false
 
 - <FontIcon icon="user" /> **Name**: Cheng Shang
 
-- <FontIcon icon="building-user" /> **Affiliation**: Department of Physics, The University of Tokyo.
+- <FontIcon icon="building-user" /> **Affiliation**: Analytical Quantum Complexity RIKEN Hakubi Research Team
 
 - <FontIcon icon="envelope" /> **Contact**:
 

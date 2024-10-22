@@ -52,7 +52,7 @@ footer: false
 
 - <FontIcon icon="user" /> **姓名**: 尚程
 
-- <FontIcon icon="building-user" /> **所属机构**: 东京大学物理系。
+- <FontIcon icon="building-user" /> **所属机构**: 分析量子复杂性 RIKEN Hakubi 研究团队
 
 - <FontIcon icon="envelope" /> **联系方式**:
 
