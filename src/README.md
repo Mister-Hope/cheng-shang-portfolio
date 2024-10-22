@@ -15,12 +15,16 @@ titles:
 
 medias:
   - icon: envelope
-    name: UTokyo Email
-    link: mailto:c-shang@iis.u-tokyo.ac.jp
-
-  - icon: envelope
     name: RIKEN Email
     link: mailto:cheng.shang@riken.jp
+
+  - icon: fab fa-google
+    name: Gmail
+    link: mailto:shangc1204@gmail.com
+
+  - icon: /utokyo.svg
+    name: UTokyo Email
+    link: mailto:c-shang@iis.u-tokyo.ac.jp
 
   - icon: fab fa-orcid
     name: ORCID
@@ -28,29 +32,40 @@ medias:
 
   - icon: fab fa-google-scholar
     name: Google Scholar
-    link: https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?user=-k8PWr8AAAAJ
+
+  - icon: fab fa-linkedin-in
+    name: iNSPIRE
+    link: https://inspirehep.net/authors/2662928
+
+  - icon: fab fa-x-twitter
+    name: X
+    link: https://x.com/Shangc1204
 
 footer: false
 ---
 
 ## About me
 
-- **Name**: Cheng Shang
+- <FontIcon icon="user" /> **Name**: Cheng Shang
 
-- **Affiliation**: Department of Physics, The University of Tokyo.
+- <FontIcon icon="building-user" /> **Affiliation**: Department of Physics, The University of Tokyo.
 
-- **Contact**:
+- <FontIcon icon="envelope" /> **Contact**:
 
-  - UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
-  - RIKEN Email: <cheng.shang@riken.jp>
+  - <FontIcon icon="envelope" /> RIKEN Email: <cheng.shang@riken.jp>
+  - <FontIcon icon="fab fa-google" /> Gmail: <shangc1204@gmail.com>
+  - <img class="font-icon icon" src="/utokyo.svg" /> UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
 
-- **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
+- <FontIcon icon="fab fa-orcid" /> **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
-- **Google Scholar**: [Cheng Shang](https://scholar.google.com/citations?user=HwEOkQEAAAAJ)
+- <FontIcon icon="fab fa-google-scholar" /> **Google Scholar**: [Cheng Shang](https://scholar.google.com/citations?user=-k8PWr8AAAAJ)
 
-- **iNSPIRE**: [Cheng Shang](https://inspirehep.net/authors/2662928)
+- <FontIcon icon="fab fa-linkedin-in" /> **iNSPIRE**: [Cheng Shang](https://inspirehep.net/authors/2662928)
 
-- **Hobby**: B-boying (Breaking), Gomoku, music, running...
+- <FontIcon icon="fab fa-x-twitter" /> **X**: [@Shangc1204](https://x.com/Shangc1204)
+
+- <FontIcon icon="heart" /> **Hobby**: B-boying (Breaking), Gomoku, music, running...
 
 ## Education
 

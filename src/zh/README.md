@@ -16,12 +16,16 @@ name: 尚  程
 
 medias:
   - icon: envelope
-    name: 东京大学邮箱
-    link: mailto:c-shang@iis.u-tokyo.ac.jp
-
-  - icon: envelope
     name: RIKEN 邮箱
     link: mailto:cheng.shang@riken.jp
+
+  - icon: fab fa-google
+    name: 谷歌邮箱
+    link: mailto:shangc1204@gmail.com
+
+  - icon: /utokyo.svg
+    name: 东京大学邮箱
+    link: mailto:c-shang@iis.u-tokyo.ac.jp
 
   - icon: fab fa-orcid
     name: ORCID
@@ -29,29 +33,40 @@ medias:
 
   - icon: fab fa-google-scholar
     name: 谷歌学术
-    link: https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?user=-k8PWr8AAAAJ&hl=zh-CN
+
+  - icon: fab fa-linkedin-in
+    name: iNSPIRE
+    link: https://inspirehep.net/authors/2662928
+
+  - icon: fab fa-x-twitter
+    name: X
+    link: https://x.com/Shangc1204
 
 footer: false
 ---
 
 ## 个人信息
 
-- **姓名**: 尚程
+- <FontIcon icon="user" /> **姓名**: 尚程
 
-- **所属机构**: 东京大学物理系。
+- <FontIcon icon="building-user" /> **所属机构**: 东京大学物理系。
 
-- **联系方式**:
+- <FontIcon icon="envelope" /> **联系方式**:
 
-  - 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
-  - RIKEN 邮箱: <cheng.shang@riken.jp>
+  - <FontIcon icon="envelope" /> RIKEN 邮箱: <cheng.shang@riken.jp>
+  - <FontIcon icon="fab fa-google" /> Gmail: <shangc1204@gmail.com>
+  - <img class="font-icon icon" src="/utokyo.svg" /> 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
 
-- **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
+- <FontIcon icon="fab fa-orcid" /> **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
-- **谷歌学术**: [尚程](https://scholar.google.com/citations?user=HwEOkQEAAAAJ&hl=zh-CN)
+- <FontIcon icon="fab fa-google-scholar" />**谷歌学术**: [尚程](https://scholar.google.com/citations?user=-k8PWr8AAAAJ&hl=zh-CN)
 
-- **iNSPIRE**: [尚程](https://inspirehep.net/authors/2662928)
+- <FontIcon icon="fab fa-linkedin-in" /> **iNSPIRE**: [尚程](https://inspirehep.net/authors/2662928)
 
-- **个人爱好**: 街舞（地板舞）、五子棋、音乐、跑步……
+- <FontIcon icon="fab fa-x-twitter" />**X**: [@Shangc1204](https://x.com/Shangc1204)
+
+- <FontIcon icon="heart" /> **个人爱好**: 街舞（地板舞）、五子棋、音乐、跑步……
 
 ## 教育经历
 
