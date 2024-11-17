@@ -78,6 +78,13 @@ footer: false
 
 ## 新闻
 
+- 2024年，我作为特别研究员于10月1日加入了[桑原团队](https://kuwahara-quantum.com/en/people/)，从事博士后研究员工作。
+- 2024年，我参加了国际量子信息进程会议（[QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)）、第19届量子计算、通信与密码理论会议（[TQC2024](https://tqc-conference.org/posters/?tgid=44)），以及国际会议“[量子创新](https://quantum-innovation2024.jp/program/poster_cp.html)”，并在这些会议上张贴了题为《算符传播等价于信息传输》的海报。
+- 2024年9月20日，我参加了东京大学的毕业典礼，并被授予博士学位，证书编号为：HAKU RI 7661。
+- 2022年和2024年，作为组织委员会成员，我组织了“统计与量子物理秋冬学校”研讨会，即[SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/)和[SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/)]。
+- 2021年、2022年、2023年和2024年，作为日本物理学会会员我在[日本物理学会会议](https://www.jps.or.jp/english/)上做口头报告。
+- 2019年，我在内蒙古大学举办的“量子物理前沿与进展”研讨会上进行了大会口头报告。
+
 ## 代表荣誉及奖项
 
 - [2024 年第21届赝厄密哈密顿量量子物理学国际研讨会，哈尼亚，希腊](https://events.physics.uoc.gr/event/1/page/5-speakers), 邀请报告 (PHHQP-XXI)。
