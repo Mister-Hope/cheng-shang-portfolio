@@ -79,6 +79,10 @@ footer: false
 
 - 2024 As a Special Research Fellow, I joined the [Kuwahara team](https://kuwahara-quantum.com/en/people/) as a postdoctoral researcher on October 1st.
 - 2024 I attended the International Conference on Quantum Information Processing ([QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)), the 19th Theory of Quantum Computation, Communication, and Cryptography ([TQC2024](https://tqc-conference.org/posters/?tgid=44)), and the international conference [Quantum Innovation](https://quantum-innovation2024.jp/program/poster_cp.html), where I presented a poster titled "Equivalence between Operator Spreading and Information Propagation".
+- 2024 I attended the graduation ceremony at the University of Tokyo on September 20 and was awarded a doctoral degree, with number: HAKU RI 7661.
+- 2022 and 2024 As a committee member, I organized the "Stat&QuantPhys Autumn and Winter School" workshops, namely [SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/) and [SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/).
+- 2021, 2022, 2023, and 2024 I presented a talk on [The Physical Society of Japan](https://www.jps.or.jp/english/) meeting.
+- 2019 I gave a talk at the Symposium on Frontiers and Progress in Quantum Physics held at Inner Mongolia University.
 
 ## Representative Honors and Awards
 
