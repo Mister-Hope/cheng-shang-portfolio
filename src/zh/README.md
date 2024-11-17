@@ -80,7 +80,8 @@ footer: false
 
 ## 代表荣誉及奖项
 
-- [2023 年量子物理与量子信息科学国际研讨会会议](http://www.baqis.ac.cn/news/detail/?cid=1879) 最佳海报奖 (QPQIS-2023)。
+- [2024 年第21届赝厄密哈密顿量量子物理学国际研讨会，哈尼亚，希腊](https://events.physics.uoc.gr/event/1/page/5-speakers), 邀请报告 (PHHQP-XXI)。
+- [2023 年量子物理与量子信息科学国际研讨会会议，北京，中国](http://www.baqis.ac.cn/news/detail/?cid=1879), 最佳海报奖 (QPQIS-2023)。
 - 2021 年日本政府 (MEXT) 博士奖学金。
 - 2019 年中国研究生国家奖学金。
 
