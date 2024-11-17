@@ -77,6 +77,8 @@ footer: false
 
 ## News
 
+- 2024 I attended the graduation ceremony at the University of Tokyo on September 20 and was awarded a doctoral degree, with number: HAKU RI 7661.
+
 ## Representative Honors and Awards
 
 - 2023 Best Poster Award, [the 5th International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS-2023)](http://en.baqis.ac.cn/news/detail/?cid=1764).
