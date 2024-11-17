@@ -77,7 +77,7 @@ footer: false
 
 ## News
 
-- 2024 I attended the graduation ceremony at the University of Tokyo on September 20 and was awarded a doctoral degree, with number: HAKU RI 7661.
+- 2024 As a Special Research Fellow, I joined the [Kuwahara team](https://kuwahara-quantum.com/en/people/) as a postdoctoral researcher on October 1st.
 
 ## Representative Honors and Awards
 
