@@ -16,6 +16,8 @@ Run `pnpm i` in the project folder.
 
 Note: After applying new code changes from repo, you should always run `pnpm i` to reinstall the dependencies.
 
+Note: If you are in China mainland and installation fails because of network reason, you should use `pnpm i --registry=https://registry.npmmirror.com` instead.
+
 ## Usage
 
 - `pnpm dev`: start development server to preview the website
