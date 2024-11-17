@@ -78,6 +78,7 @@ footer: false
 ## News
 
 - 2024 As a Special Research Fellow, I joined the [Kuwahara team](https://kuwahara-quantum.com/en/people/) as a postdoctoral researcher on October 1st.
+- 2024 I attended the International Conference on Quantum Information Processing ([QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)), the 19th Theory of Quantum Computation, Communication, and Cryptography ([TQC2024](https://tqc-conference.org/posters/?tgid=44)), and the international conference [Quantum Innovation](https://quantum-innovation2024.jp/program/poster_cp.html), where I presented a poster titled "Equivalence between Operator Spreading and Information Propagation".
 
 ## Representative Honors and Awards
 
