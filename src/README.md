@@ -82,7 +82,9 @@ footer: false
 - 2024 I attended the graduation ceremony at the University of Tokyo on September 20 and was awarded a doctoral degree, with number: HAKU RI 7661.
 - 2022 and 2024 As a committee member, I organized the "Stat&QuantPhys Autumn and Winter School" workshops, namely [SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/) and [SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/).
 - 2021, 2022, 2023, and 2024 I presented a talk on [The Physical Society of Japan](https://www.jps.or.jp/english/) meeting.
+- 2021 I joined the [Hatano Laboratory](http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html) at the Department of Physics, the University of Tokyo, as a Japanese Government (MEXT) Scholarship student to start my doctoral program.
 - 2019 I gave a talk at the Symposium on Frontiers and Progress in Quantum Physics held at Inner Mongolia University.
+- 2017 I joined Prof. [Yi Xuexi's laboratory](https://cqs.nenu.edu.cn/) at the Center for Quantum Sciences to begin my master's research journey.
 
 ## Representative Honors and Awards
 
