@@ -111,6 +111,7 @@ footer: false
 
 ## Publications
 
+1. [Bo-Wang Zhang, Cheng Shang, J. Y. Sun, Zhuo-Cheng Gu, X. X. Yi, Manipulating spectral transitions and photonic transmission in a non-Hermitian optical system through nanoparticle perturbations, arXiv: 2411.14862 (2024)](https://arxiv.org/abs/2411.14862)
 1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, Cheng Shang, Topological Quantum Batteries, arXiv preprint arXiv:2405.03675 (2024)](https://arxiv.org/abs/2405.03675)
 1. [Cheng Shang and Hong-Chao Li, Resonance-dominant optomechanical entanglement in open quantum systems, Physical Review Applied 21 (4), 044048 (2024)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.044048)
 1. [Cheng Shang, Hayato Kinkawa, and Tomotaka Kuwahara, Equivalence between operator spreading and information propagation, 日本物理学会講演概要集 79. 1, 753 (2024)](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=HwEOkQEAAAAJ&sortby=pubdate&citation_for_view=HwEOkQEAAAAJ:roLk4NBRz8UC)
