@@ -112,11 +112,12 @@ footer: false
 
 ## 发表内容
 
-1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, Cheng Shang, Topological Quantum Batteries, arXiv preprint arXiv:2405.03675 (2024)](https://arxiv.org/abs/2405.03675)
+1. [Bo-Wang Zhang, Cheng Shang, J. Y. Sun, Zhuo-Cheng Gu, X. X. Yi, Manipulating spectral transitions and photonic transmission in a non-Hermitian optical system through nanoparticle perturbations, arXiv: 2411.14862 (2024)](https://arxiv.org/abs/2411.14862)
+1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, Cheng Shang, Topological Quantum Batteries, arXiv:2405.03675 (2024)](https://arxiv.org/abs/2405.03675)
 1. [Cheng Shang and Hong-Chao Li, Resonance-dominant optomechanical entanglement in open quantum systems, Physical Review Applied 21 (4), 044048 (2024)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.044048)
 1. [Cheng Shang, Hayato Kinkawa, and Tomotaka Kuwahara, Equivalence between operator spreading and information propagation, 日本物理学会講演概要集 79. 1, 753 (2024)](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=HwEOkQEAAAAJ&sortby=pubdate&citation_for_view=HwEOkQEAAAAJ:roLk4NBRz8UC)
 1. [Zhi-Guang Lu, Cheng Shang, Ying Wu, Xin-You Lü, Analytical approach to higher-order correlation functions in U(1) symmetric systems, Physical Review A 108, 053703 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.053703)
-1. [Cheng Shang, Coupling enhancement and symmetrization of single-photon optomechanics in open quantum systems, arXiv preprint arXiv:2302.04897 (2023)](https://arxiv.org/abs/2302.04897)
+1. [Cheng Shang, Coupling enhancement and symmetrization of single-photon optomechanics in open quantum systems, arXiv:2302.04897 (2023)](https://arxiv.org/abs/2302.04897)
 1. [H. Y. Sun, Cheng Shang, X. X. Luo, Y. H. Zhou, Hong-Zhi Shen, Optical-assisted Photon Blockade in a Cavity System via Parametric Interactions, International Journal of Theoretical Physics 58, 3640-3650 (2019)](https://link.springer.com/article/10.1007/s10773-019-04229-x)
 1. [Cheng Shang, Hong-Zhi Shen, Xue-Xi Yi, Nonreciprocity in a strongly coupled three-mode optomechanical circulatory system, Optics Express 27 (18), 25882-25901 (2019)](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25882&id=417227)
 1. [Hong-Zhi Shen, Cheng Shang, Y. H. Zhou, Xue-Xi Yi, Unconventional single-photon blockade in non-Markovian systems, Physical Review A 98 (2), 023856 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.023856)
