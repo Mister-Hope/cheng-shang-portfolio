@@ -49,25 +49,25 @@ footer: false
 
 <div style="font-size: 1.2em">
 
-- <FontIcon icon="user" /> **Name**: Cheng Shang
+- ::user:: **Name**: Cheng Shang
 
-- <FontIcon icon="building-user" /> **Affiliation**: Analytical Quantum Complexity RIKEN Hakubi Research Team
+- ::building-user:: **Affiliation**: Analytical Quantum Complexity RIKEN Hakubi Research Team
 
-- <FontIcon icon="envelope" /> **Contact**:
+- ::envelope:: **Contact**:
 
-  - <FontIcon icon="envelope" /> RIKEN Email: <cheng.shang@riken.jp>
-  - <FontIcon icon="fab fa-google" /> Gmail: <shangc1204@gmail.com>
-  - <img class="font-icon icon" src="/utokyo.svg" /> UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
+  - ::envelope:: RIKEN Email: <cheng.shang@riken.jp>
+  - ::fab fa-google:: Gmail: <shangc1204@gmail.com>
+  - <img class="font-icon icon" src="/utokyo.svg:: UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
 
-- <FontIcon icon="fab fa-orcid" /> **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
+- ::fab fa-orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
-- <FontIcon icon="fab fa-google-scholar" /> **Google Scholar**: [Cheng Shang](https://scholar.google.com/citations?user=-k8PWr8AAAAJ)
+- ::fab fa-google-scholar:: **Google Scholar**: [Cheng Shang](https://scholar.google.com/citations?user=-k8PWr8AAAAJ)
 
-- <FontIcon icon="fab fa-linkedin-in" /> **iNSPIRE**: [Cheng Shang](https://inspirehep.net/authors/2662928)
+- ::fab fa-linkedin-in:: **iNSPIRE**: [Cheng Shang](https://inspirehep.net/authors/2662928)
 
-- <FontIcon icon="fab fa-x-twitter" /> **X**: [@Shangc1204](https://x.com/Shangc1204)
+- ::fab fa-x-twitter:: **X**: [@Shangc1204](https://x.com/Shangc1204)
 
-- <FontIcon icon="heart" /> **Hobby**: B-boying (Breaking), Gomoku, music, running...
+- ::heart:: **Hobby**: B-boying (Breaking), Gomoku, music, running...
 
 </div>
 

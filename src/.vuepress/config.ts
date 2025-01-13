@@ -20,7 +20,6 @@ export default defineUserConfig({
   theme: hopeTheme({
     hostname: "https://cheng-shang.me/",
     favicon: "/favicon.ico",
-    iconAssets: "fontawesome-with-brands",
 
     author: {
       name: "Cheng Shang",
@@ -81,13 +80,16 @@ export default defineUserConfig({
       },
     },
 
+    markdown: {
+      align: true,
+      hint: false,
+    },
+
     plugins: {
-      markdownHint: false,
-      mdEnhance: {
-        align: true,
+      icon: {
+        assets: "fontawesome-with-brands",
       },
       photoSwipe: false,
-      redirect: { switchLocale: "modal" },
     },
   }),
 });
