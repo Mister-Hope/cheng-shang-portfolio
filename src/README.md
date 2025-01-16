@@ -18,7 +18,7 @@ medias:
     name: RIKEN Email
     link: mailto:cheng.shang@riken.jp
 
-  - icon: fab fa-google
+  - icon: brands:google
     name: Gmail
     link: mailto:shangc1204@gmail.com
 
@@ -26,19 +26,19 @@ medias:
     name: UTokyo Email
     link: mailto:c-shang@iis.u-tokyo.ac.jp
 
-  - icon: fab fa-orcid
+  - icon: brands:orcid
     name: ORCID
     link: https://orcid.org/0000-0001-8393-2329
 
-  - icon: fab fa-google-scholar
+  - icon: brands:google-scholar
     name: Google Scholar
     link: https://scholar.google.com/citations?user=-k8PWr8AAAAJ
 
-  - icon: fab fa-linkedin-in
+  - icon: brands:linkedin-in
     name: iNSPIRE
     link: https://inspirehep.net/authors/2662928
 
-  - icon: fab fa-x-twitter
+  - icon: brands:x-twitter
     name: X
     link: https://x.com/Shangc1204
 
@@ -56,18 +56,18 @@ footer: false
 - ::envelope:: **Contact**:
 
   - ::envelope:: RIKEN Email: <cheng.shang@riken.jp>
-  - ::fab fa-google:: Gmail: <shangc1204@gmail.com>
+  - ::brands:google:: Gmail: <shangc1204@gmail.com>
   - <VPIcon icon="/utokyo.svg" /> UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
 
-- ::fab fa-orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
+- ::brands:orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
-- ::fab fa-google-scholar:: **Google Scholar**: [Cheng Shang](https://scholar.google.com/citations?user=-k8PWr8AAAAJ)
+- ::brands:google-scholar::: [Google Scholar](https://scholar.google.com/citations?user=-k8PWr8AAAAJ)
 
-- ::fab fa-linkedin-in:: **iNSPIRE**: [Cheng Shang](https://inspirehep.net/authors/2662928)
+- ::brands:linkedin-in::: [iNSPIRE](https://inspirehep.net/authors/2662928)
 
-- ::fab fa-x-twitter:: **X**: [@Shangc1204](https://x.com/Shangc1204)
+- ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
 
-- ::heart:: **Hobby**: B-boying (Breaking), Gomoku, music, running...
+- ::heart:: **Hobby**: B-boying (Breaking), Gomoku, music, running
 
 </div>
 

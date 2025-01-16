@@ -19,7 +19,7 @@ medias:
     name: RIKEN 邮箱
     link: mailto:cheng.shang@riken.jp
 
-  - icon: fab fa-google
+  - icon: brands:google
     name: 谷歌邮箱
     link: mailto:shangc1204@gmail.com
 
@@ -27,19 +27,19 @@ medias:
     name: 东京大学邮箱
     link: mailto:c-shang@iis.u-tokyo.ac.jp
 
-  - icon: fab fa-orcid
+  - icon: brands:orcid
     name: ORCID
     link: https://orcid.org/0000-0001-8393-2329
 
-  - icon: fab fa-google-scholar
+  - icon: brands:google-scholar
     name: 谷歌学术
     link: https://scholar.google.com/citations?user=-k8PWr8AAAAJ&hl=zh-CN
 
-  - icon: fab fa-linkedin-in
+  - icon: brands:linkedin-in
     name: iNSPIRE
     link: https://inspirehep.net/authors/2662928
 
-  - icon: fab fa-x-twitter
+  - icon: brands:x-twitter
     name: X
     link: https://x.com/Shangc1204
 
@@ -57,18 +57,18 @@ footer: false
 - ::envelope:: **联系方式**:
 
   - ::envelope:: RIKEN 邮箱: <cheng.shang@riken.jp>
-  - ::fab fa-google:: Gmail: <shangc1204@gmail.com>
+  - ::brands:google:: Gmail: <shangc1204@gmail.com>
   - <VPIcon icon="/utokyo.svg" /> 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
 
-- ::fab fa-orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
+- ::brands:orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
-- ::fab fa-google-scholar::**谷歌学术**: [尚程](https://scholar.google.com/citations?user=-k8PWr8AAAAJ&hl=zh-CN)
+- ::brands:google-scholar::: [谷歌学术](https://scholar.google.com/citations?user=-k8PWr8AAAAJ&hl=zh-CN)
 
-- ::fab fa-linkedin-in:: **iNSPIRE**: [尚程](https://inspirehep.net/authors/2662928)
+- ::brands:linkedin-in::: [iNSPIRE](https://inspirehep.net/authors/2662928)
 
-- ::fab fa-x-twitter::**X**: [@Shangc1204](https://x.com/Shangc1204)
+- ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
 
-- ::heart:: **个人爱好**: 街舞（地板舞）、五子棋、音乐、跑步……
+- ::heart:: **爱好**: 街舞（地板舞）、五子棋、音乐、跑步
 
 </div>
 
