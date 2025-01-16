@@ -58,7 +58,7 @@ footer: false
 
   - ::envelope:: RIKEN 邮箱: <cheng.shang@riken.jp>
   - ::fab fa-google:: Gmail: <shangc1204@gmail.com>
-  - <img class="font-icon icon" src="/utokyo.svg:: 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
+  - <VPIcon icon="/utokyo.svg" /> 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
 
 - ::fab fa-orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
