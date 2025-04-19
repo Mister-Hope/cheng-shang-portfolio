@@ -29,6 +29,7 @@ export default defineUserConfig({
     sidebar: false,
 
     displayFooter: true,
+    contributors: false,
     editLink: false,
 
     // blog: {
