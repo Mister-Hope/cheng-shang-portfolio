@@ -111,6 +111,12 @@ footer: false
 
 ## Publications
 
+1. [J. Y. Sun, C. Cui, Y. F. Li, Shuang Xu, Cheng Shang, Yan-Hui Zhou, H. Z. Shen, Dressed bound states and non-Markovian dynamics with a whispering-gallery-mode microcavity coupled to a two-level atom and a semi-infinite photonic waveguide, arXiv:2504.09695 (2025)](https://arxiv.org/abs/2504.09695)
+1. [L. Y. Ning, Zhi-Guang Lu, Cheng Shang, H. Z. Shen, Higher-order Exceptional Points Induced by Non-Markovian Environments, arXiv:2504.00617 (2025)](https://arxiv.org/abs/2504.00617)
+1. [H. Yi, T. Z. Luan, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, Zhi-Cheng Shi, H. Z. Shen, Nonreciprocity and unidirectional invisibility in three optical modes with non-Markovian effects, arXiv:2503.23169 (2025)](https://arxiv.org/abs/2503.23169)
+1. [H. Z. Shen, Cheng Shang, Yan-Hui Zhou, X. X. Yi, Emergent Non-Markovian Gain in Open Quantum Systems, arXiv:2503.21739 (2025)](https://arxiv.org/abs/2503.21739)
+1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
+1. [Hongchao Li, Cheng Shang, Tomotaka Kuwahara, Tan Van Vu, Macroscopic Particle Transport in Dissipative Long-Range Bosonic Systems, arXiv: 2503.13731 (2025)](https://arxiv.org/abs/2503.13731)
 1. [Bo-Wang Zhang, Cheng Shang, J. Y. Sun, Zhuo-Cheng Gu, X. X. Yi, Manipulating spectral transitions and photonic transmission in a non-Hermitian optical system through nanoparticle perturbations, arXiv: 2411.14862 (2024)](https://arxiv.org/abs/2411.14862)
 1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, Cheng Shang, Topological Quantum Batteries, arXiv preprint arXiv:2405.03675 (2024)](https://arxiv.org/abs/2405.03675)
 1. [Cheng Shang and Hong-Chao Li, Resonance-dominant optomechanical entanglement in open quantum systems, Physical Review Applied 21 (4), 044048 (2024)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.044048)
