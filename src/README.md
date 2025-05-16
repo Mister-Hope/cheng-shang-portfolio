@@ -77,6 +77,7 @@ footer: false
 
 ## News
 
+- 2025 Our work on "[Topological Quantum Batteries](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)" was featured in press releases by [RIKEN](https://www.riken.jp/press/2025/20250513_2/index.html) and [Mynavi News](https://news.mynavi.jp/techplus/article/20250514-3319145/).
 - 2024 As a Special Research Fellow, I joined the [Kuwahara team](https://kuwahara-quantum.com/en/people/) as a postdoctoral researcher on October 1st.
 - 2024 I attended the International Conference on Quantum Information Processing ([QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)), the 19th Theory of Quantum Computation, Communication, and Cryptography ([TQC2024](https://tqc-conference.org/posters/?tgid=44)), and the international conference [Quantum Innovation](https://quantum-innovation2024.jp/program/poster_cc.html), where I presented a poster titled "Equivalence between Operator Spreading and Information Propagation".
 - 2024 I attended the graduation ceremony at the University of Tokyo on September 20 and was awarded a doctoral degree, with number: HAKU RI 7661.
