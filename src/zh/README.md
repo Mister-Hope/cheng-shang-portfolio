@@ -78,7 +78,7 @@ footer: false
 
 ## 新闻
 
-- 2025 年，我们的工作"[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”被[理化学研究所](https://www.riken.jp/press/2025/20250513_2/index.html), [マイナビニュース](https://news.mynavi.jp/techplus/article/20250514-3319145/), [日本経済新聞](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC235SW0T20C25A5000000), 和[PHYS.ORG](https://phys.org/news/2025-06-topological-quantum-batteries-theoretical-framework.html#google_vignette)以新闻稿的形式进行了报道。
+- 2025 年，我们的工作"[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”被[理化学研究所](https://www.riken.jp/press/2025/20250513_2/index.html), [マイナビニュース](https://news.mynavi.jp/techplus/article/20250514-3319145/), [日本経済新聞](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC235SW0T20C25A5000000), 和[(PHYS.ORG)](https://phys.org/news/2025-06-topological-quantum-batteries-theoretical-framework.html#google_vignette)以新闻稿的形式进行了报道。
 - 2024 年，我作为特别研究员于 10 月 1 日加入了[桑原团队](https://kuwahara-quantum.com/en/people/)，从事博士后研究员工作。
 - 2024 年，我参加了国际量子信息进程会议（[QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)）、第 19 届量子计算、通信与密码理论会议（[TQC2024](https://tqc-conference.org/posters/?tgid=44)），以及国际会议“[量子创新](https://quantum-innovation2024.jp/program/poster_cc.html)”，并在这些会议上张贴了题为《算符传播等价于信息传输》的海报。
 - 2024 年 9 月 20 日，我参加了东京大学的毕业典礼，并被授予博士学位，证书编号为：HAKU RI 7661。
