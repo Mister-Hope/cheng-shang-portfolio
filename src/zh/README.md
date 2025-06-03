@@ -8,7 +8,7 @@ avatarStyle:
   display: none
 bgImage: /background.avif
 titles:
-  - 阳光男孩
+  - 理论物理研究员
   - 世界探索者
   - 量子物理思考者
 welcome: 👋 你好，我是
