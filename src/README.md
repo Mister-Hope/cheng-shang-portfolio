@@ -9,7 +9,7 @@ avatarStyle:
   display: none
 bgImage: /background.avif
 titles:
-  - Sunny Boy
+  - Theoretical Physics Researcher
   - World Explorer
   - Quantum Theory Thinker
 
