@@ -114,6 +114,14 @@ footer: false
 
 ## 期刊（已发表）
 
+1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, Cheng Shang, Topological Quantum Batteries, Phys. Rev. Lett. 134, 180401 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)
+1. [Bo-Wang Zhang, Cheng Shang, J. Y. Sun, Zhuo-Cheng Gu, X. X. Yi, Manipulating spectral transitions and photonic transmission in a non-Hermitian optical system through nanoparticle perturbations, Phys. Rev. A 111, 063702 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.063702)
+1. [Cheng Shang and Hong-Chao Li, Resonance-dominant optomechanical entanglement in open quantum systems, Physical Review Applied 21 (4), 044048 (2024)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.044048)
+1. [Zhi-Guang Lu, Cheng Shang, Ying Wu, Xin-You Lü, Analytical approach to higher-order correlation functions in U(1) symmetric systems, Physical Review A 108, 053703 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.053703)
+1. [H. Y. Sun, Cheng Shang, X. X. Luo, Y. H. Zhou, Hong-Zhi Shen, Optical-assisted Photon Blockade in a Cavity System via Parametric Interactions, International Journal of Theoretical Physics 58, 3640-3650 (2019)](https://link.springer.com/article/10.1007/s10773-019-04229-x)
+1. [Cheng Shang, Hong-Zhi Shen, Xue-Xi Yi, Nonreciprocity in a strongly coupled three-mode optomechanical circulatory system, Optics Express 27 (18), 25882-25901 (2019)](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25882&id=417227)
+1. [Hong-Zhi Shen, Cheng Shang, Y. H. Zhou, Xue-Xi Yi, Unconventional single-photon blockade in non-Markovian systems, Physical Review A 98 (2), 023856 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.023856)
+
 
 ## 预印本
 
