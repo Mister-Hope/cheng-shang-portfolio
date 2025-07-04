@@ -138,6 +138,7 @@ footer: false
 
 ## 我被致谢的工作（遴选）
 
+1. [Yue-Zhou Li, Stochastic inflation as an open quantum system, arXiv: 2507.02070 (2025)](https://arxiv.org/abs/2507.02070).
 1. [M. E. Shirokov, Upper bounds on the Holevo quantity arising from the fundamental entropic inequality, arXiv: 2506.05335 (2025)](https://arxiv.org/abs/2506.05335).
 1. [Tomotaka Kuwahara, Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures, arXiv: 2407.05835 (2024)](https://arxiv.org/abs/2407.05835).
 1. [Yue-Zhou Li, Holographic conformal field theories and their flat-space structures, 2023 PhD Theses (McGill University)](https://escholarship.mcgill.ca/concern/theses/cj82kd73h).
