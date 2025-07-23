@@ -76,7 +76,7 @@ footer: false
 
 <Experiences :items="experiences" />
 
-## 特刊征稿
+## 特刊征稿: 征集中ing...
 - Welcome! Now Open for Submissions! Special Collection Call for Papers: Exception Points in non-Hermitian Systems
 - Journal: Discover Physics (Springer Nature)
 - Submission Deadline: 21 April, 2026; [Submit & Learn More](https://link.springer.com/collections/djheehghia)
