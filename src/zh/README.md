@@ -76,6 +76,12 @@ footer: false
 
 <Experiences :items="experiences" />
 
+## 特刊征稿
+Welcome! Now Open for Submissions! Special Collection Call for Papers: Exception Points in non-Hermitian Systems
+Journal: Discover Physics (Springer Nature)
+Submission Deadline: 21 April, 2026; [Submit & Learn More](https://link.springer.com/collections/djheehghia)
+If you are interested or have any questions, please contact: cheng.shang@riken.jp or shenhz458@nenu.edu.cn
+
 ## 新闻
 
 - 2025 年，我们的工作"[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”被选为[PRL trending](https://x.com/PhysRevLett/status/1924474721149542443)。
