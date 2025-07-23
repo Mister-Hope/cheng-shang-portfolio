@@ -75,6 +75,12 @@ footer: false
 
 <Experiences :items="experiences" />
 
+## Now! Special Collection Call for Papers
+- Welcome! Now Open for Submissions! Special Collection Call for Papers: Exception Points in non-Hermitian Systems
+- Journal: Discover Physics (Springer Nature)
+- Submission Deadline: 21 April, 2026; [Submit & Learn More](https://link.springer.com/collections/djheehghia)
+- If you are interested or have any questions, please contact: cheng.shang@riken.jp or shenhz458@nenu.edu.cn
+
 ## News
 
 - 2025 Our work on "[Topological Quantum Batteries](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)" was featured in [PRL Trending](https://x.com/PhysRevLett/status/1924474721149542443).
