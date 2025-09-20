@@ -129,6 +129,7 @@ footer: false
 
 ## Preprint
 
+1. [Donghoon Kim, Yusuke Kimura, Hugo Mackay, Yosuke Mitsuhashi, Hideaki Nishikawa, Carla Rubiliani, Cheng Shang, Ayumi Ukai, and Tomotaka Kuwahara, Spectral Small-Incremental-Entangling: Breaking Quasi-Polynomial Complexity Barriers in Long-Range Interacting Systems, arXiv:2509.12014 (2025)](https://arxiv.org/abs/2509.12014).
 1. [Cheng Shang, Zhi-Guang Lu, Hayato Kinkawa, and Tomotaka Kuwahara, Operator Spreading and Information Propagation: Equivalence and Beyond, arXiv:2505.07955 (2025)](https://arxiv.org/abs/2505.07955)
 1. [Hongchao Li, Cheng Shang, Tomotaka Kuwahara, Tan Van Vu, Macroscopic Particle Transport in Dissipative Long-Range Bosonic Systems, arXiv:2503.13731 (2025)](https://arxiv.org/abs/2503.13731)
 1. [J. X. Yang, Cheng Shang, Yan-Hui Zhou, and H. Z. Shen, Simultaneous nonreciprocal unconventional photon blockade via two degenerate optical parametric amplifiers in spinning resonators, arXiv:2505.10255 (2025)](https://arxiv.org/abs/2505.10255)
