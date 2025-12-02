@@ -12,16 +12,16 @@
     "update": "pnpm dlx vp-update"
   },
   "dependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.23",
-    "sass-embedded": "1.89.2",
-    "vue": "3.5.17",
-    "vuepress": "2.0.0-rc.23",
-    "vuepress-theme-hope": "2.0.0-rc.93"
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "sass-embedded": "1.93.3",
+    "vue": "3.5.25",
+    "vuepress": "2.0.0-rc.26",
+    "vuepress-theme-hope": "2.0.0-rc.99"
   },
   "engines": {
-    "node": ">= 20.6.0"
+    "node": ">= 20.618.0"
   },
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@10.24.0",
   "pnpm": {
     "onlyBuiltDependencies": [
       "esbuild"
