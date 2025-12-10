@@ -23,10 +23,6 @@ medias:
     name: 谷歌邮箱
     link: mailto:shangc1204@gmail.com
 
-  - icon: /utokyo.svg
-    name: 东京大学邮箱
-    link: mailto:c-shang@iis.u-tokyo.ac.jp
-
   - icon: brands:orcid
     name: ORCID
     link: https://orcid.org/0000-0001-8393-2329
