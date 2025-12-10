@@ -22,10 +22,6 @@ medias:
     name: Gmail
     link: mailto:shangc1204@gmail.com
 
-  - icon: /utokyo.svg
-    name: UTokyo Email
-    link: mailto:c-shang@iis.u-tokyo.ac.jp
-
   - icon: brands:orcid
     name: ORCID
     link: https://orcid.org/0000-0001-8393-2329
@@ -57,7 +53,6 @@ footer: false
 
   - ::envelope:: RIKEN Email: <cheng.shang@riken.jp>
   - ::brands:google:: Gmail: <shangc1204@gmail.com>
-  - <VPIcon icon="/utokyo.svg" /> UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
 
 - ::brands:orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
@@ -66,8 +61,6 @@ footer: false
 - ::brands:linkedin-in::: [iNSPIRE](https://inspirehep.net/authors/2662928)
 
 - ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
-
-- ::heart:: **Hobby**: B-boying (Breaking), Gomoku, music, running
 
 </div>
 
@@ -138,7 +131,7 @@ footer: false
 1. [H. Yi, T. Z. Luan, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, Zhi-Cheng Shi, H. Z. Shen, Nonreciprocity and unidirectional invisibility in three optical modes with non-Markovian effects, arXiv:2503.23169 (2025)](https://arxiv.org/abs/2503.23169)
 1. [H. Z. Shen, Cheng Shang, Yan-Hui Zhou, X. X. Yi, Emergent Non-Markovian Gain in Open Quantum Systems, arXiv:2503.21739 (2025)](https://arxiv.org/abs/2503.21739)
 1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
-1. [Cheng Shang, Coupling enhancement and symmetrization of single-photon optomechanics in open quantum systems, arXiv:2302.04897 (2023)](https://arxiv.org/abs/2302.04897)
+1. [Cheng Shang and H. Z. Shen, Coupling Enhancement and Symmetrization in Dissipative Optomechanical Systems, arXiv:2302.04897 (2025)](https://arxiv.org/abs/2302.04897)
 
 ## Acknowledged works(Selected)
 
@@ -147,6 +140,7 @@ footer: false
 1. [Tomotaka Kuwahara, Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures, arXiv: 2407.05835 (2024)](https://arxiv.org/abs/2407.05835).
 1. [Yue-Zhou Li, Holographic conformal field theories and their flat-space structures, 2023 PhD Theses (McGill University)](https://escholarship.mcgill.ca/concern/theses/cj82kd73h).
 1. [Yoshinaga Atsuki, Quantum Thermalization and Quantum Metrology in Quantum Ising Systems, 2023 PhD Theses (The University of Tokyo)](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2022/thesis_yoshinaga.pdf).
+1. [Hongchao Li, QUantum Many-Body Theory of Dissipative Superfluidity, 2023 Master Thesis (The University of Tokyo)](https://sites.google.com/view/hongchaoliquantum/).
 
 
 ## Patent
