@@ -63,7 +63,7 @@ footer: false
 
 - ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
 
-- ::heart:: **爱好**: 街舞（地板舞）、五子棋、音乐、跑步
+- ::heart:: **爱好**: 音乐
 
 </div>
 
