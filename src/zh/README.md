@@ -53,7 +53,6 @@ footer: false
 
   - ::envelope:: RIKEN 邮箱: <cheng.shang@riken.jp>
   - ::brands:google:: Gmail: <shangc1204@gmail.com>
-  - <VPIcon icon="/utokyo.svg" /> 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
 
 - ::brands:orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
