@@ -11,8 +11,7 @@ bgImage: /background.avif
 titles:
   - Theoretical Physics Researcher
   - World Explorer
-  - Quantum Theory Thinker
-
+    
 medias:
   - icon: envelope
     name: RIKEN Email
