@@ -63,8 +63,6 @@ footer: false
 
 - ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
 
-- ::heart:: **爱好**: 音乐
-
 </div>
 
 ## 教育经历
