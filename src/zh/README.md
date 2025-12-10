@@ -142,6 +142,7 @@ footer: false
 1. [Tomotaka Kuwahara, Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures, arXiv: 2407.05835 (2024)](https://arxiv.org/abs/2407.05835).
 1. [Yue-Zhou Li, Holographic conformal field theories and their flat-space structures, 2023 PhD Theses (McGill University)](https://escholarship.mcgill.ca/concern/theses/cj82kd73h).
 1. [Yoshinaga Atsuki, Quantum Thermalization and Quantum Metrology in Quantum Ising Systems, 2023 PhD Theses (The University of Tokyo)](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2022/thesis_yoshinaga.pdf).
+1. [Hongchao Li, Quantum Many-Body Theory of Dissipative Superfluidity, 2023 Master Thesis (The University of Tokyo)](https://sites.google.com/view/hongchaoliquantum/).
 
 
 ## 专利
