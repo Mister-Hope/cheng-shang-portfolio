@@ -132,7 +132,7 @@ footer: false
 1. [H. Yi, T. Z. Luan, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, Zhi-Cheng Shi, H. Z. Shen, Nonreciprocity and unidirectional invisibility in three optical modes with non-Markovian effects, arXiv:2503.23169 (2025)](https://arxiv.org/abs/2503.23169)
 1. [H. Z. Shen, Cheng Shang, Yan-Hui Zhou, X. X. Yi, Emergent Non-Markovian Gain in Open Quantum Systems, arXiv:2503.21739 (2025)](https://arxiv.org/abs/2503.21739)
 1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
-1. [Cheng Shang, Coupling enhancement and symmetrization of single-photon optomechanics in open quantum systems, arXiv:2302.04897 (2023)](https://arxiv.org/abs/2302.04897)
+1. [Cheng Shang and H. Z. Shen, Coupling Enhancement and Symmetrization in Dissipative Optomechanical Systems, arXiv:2302.04897 (2025)](https://arxiv.org/abs/2302.04897)
 
 
 ## 我被致谢的工作（遴选）
