@@ -123,13 +123,13 @@ footer: false
 
 1. [Donghoon Kim, Yusuke Kimura, Hugo Mackay, Yosuke Mitsuhashi, Hideaki Nishikawa, Carla Rubiliani, Cheng Shang, Ayumi Ukai, and Tomotaka Kuwahara, Spectral Small-Incremental-Entangling: Breaking Quasi-Polynomial Complexity Barriers in Long-Range Interacting Systems, arXiv:2509.12014 (2025)](https://arxiv.org/abs/2509.12014).
 1. [Cheng Shang, Zhi-Guang Lu, Hayato Kinkawa, and Tomotaka Kuwahara, Operator Spreading and Information Propagation: Equivalence and Beyond, arXiv:2505.07955 (2025)](https://arxiv.org/abs/2505.07955)
-1. [Hongchao Li, Cheng Shang, Tomotaka Kuwahara, Tan Van Vu, Macroscopic Particle Transport in Dissipative Long-Range Bosonic Systems, arXiv:2503.13731 (2025)](https://arxiv.org/abs/2503.13731)
+1. [Hongchao Li, Cheng Shang, Tomotaka Kuwahara, and Tan Van Vu, Macroscopic Particle Transport in Dissipative Long-Range Bosonic Systems, arXiv:2503.13731 (2025)](https://arxiv.org/abs/2503.13731)
 1. [J. X. Yang, Cheng Shang, Yan-Hui Zhou, and H. Z. Shen, Simultaneous nonreciprocal unconventional photon blockade via two degenerate optical parametric amplifiers in spinning resonators, arXiv:2505.10255 (2025)](https://arxiv.org/abs/2505.10255)
-1. [J. Y. Sun, C. Cui, Y. F. Li, Shuang Xu, Cheng Shang, Yan-Hui Zhou, H. Z. Shen, Dressed bound states and non-Markovian dynamics with a whispering-gallery-mode microcavity coupled to a two-level atom and a semi-infinite photonic waveguide, arXiv:2504.09695 (2025)](https://arxiv.org/abs/2504.09695)
-1. [L. Y. Ning, Zhi-Guang Lu, Cheng Shang, H. Z. Shen, Higher-order Exceptional Points Induced by Non-Markovian Environments, arXiv:2504.00617 (2025)](https://arxiv.org/abs/2504.00617)
-1. [H. Yi, T. Z. Luan, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, Zhi-Cheng Shi, H. Z. Shen, Nonreciprocity and unidirectional invisibility in three optical modes with non-Markovian effects, arXiv:2503.23169 (2025)](https://arxiv.org/abs/2503.23169)
-1. [H. Z. Shen, Cheng Shang, Yan-Hui Zhou, X. X. Yi, Emergent Non-Markovian Gain in Open Quantum Systems, arXiv:2503.21739 (2025)](https://arxiv.org/abs/2503.21739)
-1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
+1. [J. Y. Sun, C. Cui, Y. F. Li, Shuang Xu, Cheng Shang, Yan-Hui Zhou, and H. Z. Shen, Dressed bound states and non-Markovian dynamics with a whispering-gallery-mode microcavity coupled to a two-level atom and a semi-infinite photonic waveguide, arXiv:2504.09695 (2025)](https://arxiv.org/abs/2504.09695)
+1. [L. Y. Ning, Zhi-Guang Lu, Cheng Shang, and H. Z. Shen, Higher-order Exceptional Points Induced by Non-Markovian Environments, arXiv:2504.00617 (2025)](https://arxiv.org/abs/2504.00617)
+1. [H. Yi, T. Z. Luan, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, Zhi-Cheng Shi, and H. Z. Shen, Nonreciprocity and unidirectional invisibility in three optical modes with non-Markovian effects, arXiv:2503.23169 (2025)](https://arxiv.org/abs/2503.23169)
+1. [H. Z. Shen, Cheng Shang, Yan-Hui Zhou, and X. X. Yi, Emergent Non-Markovian Gain in Open Quantum Systems, arXiv:2503.21739 (2025)](https://arxiv.org/abs/2503.21739)
+1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, and H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
 1. [Cheng Shang and H. Z. Shen, Coupling Enhancement and Symmetrization in Dissipative Optomechanical Systems, arXiv:2302.04897 (2025)](https://arxiv.org/abs/2302.04897)
 
 ## Acknowledged works(Selected)
