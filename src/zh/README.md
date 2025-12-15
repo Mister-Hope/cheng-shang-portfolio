@@ -41,18 +41,19 @@ medias:
 footer: false
 ---
 
-## 个人信息
+## 个人简介
 
 <div style="font-size: 1.2em">
 
 - ::user:: **姓名**: 尚程
 
-- ::building-user:: **所属机构**: 分析量子复杂性 RIKEN Hakubi 研究团队
+- ::building-user:: **所属机构**: RIKEN Hakubi 研究团队 分析量子复杂性研究组
 
 - ::envelope:: **联系方式**:
 
   - ::envelope:: RIKEN 邮箱: <cheng.shang@riken.jp>
   - ::brands:google:: Gmail: <shangc1204@gmail.com>
+  - <VPIcon icon="/utokyo.svg" /> 东京大学邮箱: <c-shang@iis.u-tokyo.ac.jp>
 
 - ::brands:orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
@@ -62,55 +63,58 @@ footer: false
 
 - ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
 
+- ::heart:: **爱好**: 街舞（Breaking）、五子棋、音乐、跑步
+
 </div>
 
 ## 教育经历
 
 <Experiences :items="experiences" />
 
-## 特刊征稿: 征集中ing...
-- Welcome! Now Open for Submissions! Special Collection Call for Papers: Exception Points in non-Hermitian Systems
-- Journal: Discover Physics (Springer Nature)
-- Submission Deadline: 21 April, 2026; [Submit & Learn More](https://link.springer.com/collections/djheehghia)
-- If you are interested or have any questions, please contact: cheng.shang@riken.jp or shenhz458@nenu.edu.cn
+## 特刊征稿
 
-## 新闻
+**Special Collection: Exception Points in non-Hermitian Systems**
 
-- 2025 年，我们的工作"[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”被选为[PRL trending](https://x.com/PhysRevLett/status/1924474721149542443)。
-- 2025 年，我们的工作"[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”被[理化学研究所](https://www.riken.jp/press/2025/20250513_2/index.html), [マイナビニュース](https://news.mynavi.jp/techplus/article/20250514-3319145/), [日本経済新聞](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC235SW0T20C25A5000000), [PHYS.ORG](https://phys.org/news/2025-06-topological-quantum-batteries-theoretical-framework.html#google_vignette), [Interesting Engineering](https://interestingengineering.com/energy/new-quantum-battery-design), [ФОКУС](https://focus.ua/digital/708987-kvantovye-batarei-smogut-zaryazhat-smartfony-za-sekundy-kak-etogo-dobyutsya-uchenye), [AGAlphaGalileo](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206), [MIRAGE](https://www.miragenews.com/advent-of-topological-quantum-battery-1477588/), [AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=10819), [Enerzine](https://www.enerzine.com/lavenement-de-la-batterie-quantique-topologique/165028-2025-06), [Methored UK](https://www.yourweather.co.uk/news/science/japanese-scientists-propose-a-quantum-battery-design-that-resists-energy-loss.html), 和[BASIC thinking](https://www.basicthinking.de/blog/2025/11/12/topologische-quantenbatterie/)以新闻稿的形式进行了报道。此外，也被选入[理化学研究所（夏季）专刊](https://www.riken.jp/en/news_pubs/pubs/riken_research/2025/index.html)。
-- 2024 年，我作为特别研究员于 10 月 1 日加入了[桑原团队](https://kuwahara-quantum.com/en/people/)，从事博士后研究员工作。
-- 2024 年，我参加了国际量子信息进程会议（[QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)）、第 19 届量子计算、通信与密码理论会议（[TQC2024](https://tqc-conference.org/posters/?tgid=44)），以及国际会议“[量子创新](https://quantum-innovation2024.jp/program/poster_cc.html)”，并在这些会议上张贴了题为《算符传播等价于信息传输》的海报。
-- 2024 年 9 月 20 日，我参加了东京大学的毕业典礼，并被授予博士学位，证书编号为：HAKU RI 7661。
-- 2022 年和 2024 年，作为组织委员会成员，我组织了“统计与量子物理秋冬学校”研讨会，即[SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/)和[SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/)]。
-- 2021 年、2022 年、2023 年和 2024 年，作为日本物理学会会员我在[日本物理学会会议](https://www.jps.or.jp/english/)上做口头报告。
-- 2021 年，我以日本政府国费生(MEXT)的身份加入东京大学物理系[羽田野教授研究室](http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html)开始博士课程学习。
-- 2019 年，我在内蒙古大学举办的“量子物理前沿与进展”研讨会上进行了大会口头报告。
-- 2017 年，我加入量子科学中心[衣学喜教授研究室](https://cqs.nenu.edu.cn/)，开始我的硕士课程学习。
+- **期刊**: Discover Physics (Springer Nature)
+- **投稿截止日期**: 2026 年 4 月 21 日
+- [投稿与详情](https://link.springer.com/collections/djheehghia)
+- 如有疑问，请联系: <cheng.shang@riken.jp> 或 <shenhz458@nenu.edu.cn>
 
-## 代表荣誉及奖项
+## 新闻动态
 
-- [2024 年第 21 届赝厄密哈密顿量量子物理学国际研讨会，哈尼亚，希腊](https://events.physics.uoc.gr/event/1/page/5-speakers), 邀请报告 (PHHQP-XXI)。
-- [2023 年量子物理与量子信息科学国际研讨会会议，北京，中国](http://www.baqis.ac.cn/news/detail/?cid=1879), 最佳海报奖 (QPQIS-2023)。
-- 2021 年日本政府 (MEXT) 博士奖学金。
-- 2019 年中国研究生国家奖学金。
+- **2025** 我们的工作“[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”入选 [PRL Trending](https://x.com/PhysRevLett/status/1924474721149542443)。
+- **2025** 我们的工作“[拓扑量子电池](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)”被[理化学研究所](https://www.riken.jp/press/2025/20250513_2/index.html)发布新闻稿报道，并入选[理化学研究所（夏季）专刊](https://www.riken.jp/en/news_pubs/pubs/riken_research/2025/index.html)。此外，该工作还被 [マイナビニュース](https://news.mynavi.jp/techplus/article/20250514-3319145/)、[日本経済新聞](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC235SW0T20C25A5000000)、[PHYS.ORG](https://phys.org/news/2025-06-topological-quantum-batteries-theoretical-framework.html#google_vignette)、[Interesting Engineering](https://interestingengineering.com/energy/new-quantum-battery-design)、[ФОКУС](https://focus.ua/digital/708987-kvantovye-batarei-smogut-zaryazhat-smartfony-za-sekundy-kak-etogo-dobyutsya-uchenye)、[AGAlphaGalileo](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206)、[MIRAGE](https://www.miragenews.com/advent-of-topological-quantum-battery-1477588/)、[AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=10819)、[Enerzine](https://www.enerzine.com/lavenement-de-la-batterie-quantique-topologique/165028-2025-06)、[Methored UK](https://www.yourweather.co.uk/news/science/japanese-scientists-propose-a-quantum-battery-design-that-resists-energy-loss.html) 和 [BASIC thinking](https://www.basicthinking.de/blog/2025/11/12/topologische-quantenbatterie/) 等多家媒体报道。
+- **2024** 10 月 1 日，作为特别研究员（博士后）加入[桑原团队](https://kuwahara-quantum.com/en/people/)。
+- **2024** 参加国际量子信息处理会议 ([QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522))、第 19 届量子计算、通信与密码理论会议 ([TQC2024](https://tqc-conference.org/posters/?tgid=44)) 及国际会议“[量子创新](https://quantum-innovation2024.jp/program/poster_cc.html)”，并展示海报《算符传播等价于信息传输》。
+- **2024** 9 月 20 日，获东京大学博士学位（证书编号：HAKU RI 7661）。
+- **2022 & 2024** 作为组委会成员，组织“统计与量子物理秋冬学校”研讨会 ([SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/), [SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/))。
+- **2021–2024** 多次在[日本物理学会](https://www.jps.or.jp/english/)年会作口头报告。
+- **2021** 获日本政府（MEXT）奖学金，加入东京大学物理系[羽田野研究室](http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html)攻读博士学位。
+- **2019** 在内蒙古大学举办的“量子物理前沿与进展”研讨会上作大会口头报告。
+- **2017** 加入量子科学中心[衣学喜教授研究室](https://cqs.nenu.edu.cn/)攻读硕士学位。
 
-## 博士论文
+## 荣誉与奖项
+
+- **2024** 邀请报告，[第 21 届赝厄密哈密顿量量子物理学国际研讨会 (PHHQP-XXI)](https://events.physics.uoc.gr/event/1/page/5-speakers)，希腊哈尼亚。
+- **2023** 最佳海报奖，[第 5 届量子物理与量子信息科学国际研讨会 (QPQIS-2023)](http://www.baqis.ac.cn/news/detail/?cid=1879)，中国北京。
+- **2021** 日本政府 (MEXT) 博士奖学金。
+- **2019** 中国研究生国家奖学金。
+
+## 学位论文
 
 ::: center
+
+### 博士论文
 
 [开放量子系统中的退相干抑制：共振与拓扑效应](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2024/thesis_shang.pdf)
 
-:::
-
-## 硕士论文
-
-::: center
+### 硕士论文
 
 [基于可控光力系统的非互易传输](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEp3keNUa73wzZt2qsRh5sWMxp5xQXa5xpBeTgFa1dFLKxs8M76AJIPfu9z0sGis4GQV4nGLHFPKoy1SHuG1EKoQBfxTZbDpPTdVr8t6MkR_5gBEUgaza4vOHMjGLqFT4ignRy17YZpEbU2JEKK8t6AyW5ra24e4BX52qtBj5VUVcz2R5MufKnOYWiJbdYuAjEI=&language=CHS)
 
 :::
 
-## 期刊（已发表）
+## 期刊论文
 
 1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, and Cheng Shang, Topological Quantum Batteries, Phys. Rev. Lett. 134, 180401 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)
 1. [Bo-Wang Zhang, Cheng Shang, J. Y. Sun, Zhuo-Cheng Gu, and X. X. Yi, Manipulating spectral transitions and photonic transmission in a non-Hermitian optical system through nanoparticle perturbations, Phys. Rev. A 111, 063702 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.063702)
@@ -120,8 +124,7 @@ footer: false
 1. [Cheng Shang, Hong-Zhi Shen, and Xue-Xi Yi, Nonreciprocity in a strongly coupled three-mode optomechanical circulatory system, Optics Express 27 (18), 25882-25901 (2019)](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25882&id=417227)
 1. [Hong-Zhi Shen, Cheng Shang, Y. H. Zhou, and Xue-Xi Yi, Unconventional single-photon blockade in non-Markovian systems, Physical Review A 98 (2), 023856 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.023856)
 
-
-## 预印本
+## 预印本论文
 
 1. [Donghoon Kim, Yusuke Kimura, Hugo Mackay, Yosuke Mitsuhashi, Hideaki Nishikawa, Carla Rubiliani, Cheng Shang, Ayumi Ukai, and Tomotaka Kuwahara, Spectral Small-Incremental-Entangling: Breaking Quasi-Polynomial Complexity Barriers in Long-Range Interacting Systems, arXiv:2509.12014 (2025)](https://arxiv.org/abs/2509.12014).
 1. [Cheng Shang, Zhi-Guang Lu, Hayato Kinkawa, and Tomotaka Kuwahara, Operator Spreading and Information Propagation: Equivalence and Beyond, arXiv:2505.07955 (2025)](https://arxiv.org/abs/2505.07955)
@@ -134,8 +137,7 @@ footer: false
 1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, and H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
 1. [Cheng Shang and H. Z. Shen, Coupling Enhancement and Symmetrization in Dissipative Optomechanical Systems, arXiv:2302.04897 (2025)](https://arxiv.org/abs/2302.04897)
 
-
-## 我被致谢的工作（遴选）
+## 获致谢工作（遴选）
 
 1. [Yue-Zhou Li, Stochastic inflation as an open quantum system, arXiv: 2507.02070 (2025)](https://arxiv.org/abs/2507.02070).
 1. [M. E. Shirokov, Upper bounds on the Holevo quantity arising from the fundamental entropic inequality, arXiv: 2506.05335 (2025)](https://arxiv.org/abs/2506.05335).
@@ -143,7 +145,6 @@ footer: false
 1. [Yue-Zhou Li, Holographic conformal field theories and their flat-space structures, 2023 PhD Theses (McGill University)](https://escholarship.mcgill.ca/concern/theses/cj82kd73h).
 1. [Yoshinaga Atsuki, Quantum Thermalization and Quantum Metrology in Quantum Ising Systems, 2023 PhD Theses (The University of Tokyo)](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2022/thesis_yoshinaga.pdf).
 1. [Hongchao Li, Quantum Many-Body Theory of Dissipative Superfluidity, 2023 Master Thesis (The University of Tokyo)](https://sites.google.com/view/hongchaoliquantum/).
-
 
 ## 专利
 

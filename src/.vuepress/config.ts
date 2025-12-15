@@ -46,14 +46,9 @@ export default defineUserConfig({
           {
             text: "About me",
             icon: "circle-info",
-            link: "/#about-me",
+            link: "/#profile",
           },
         ],
-
-        // blog: {
-        //   description: "Ph.D",
-        //   intro: "/#information",
-        // },
       },
 
       /**
@@ -70,14 +65,9 @@ export default defineUserConfig({
           {
             text: "个人介绍",
             icon: "circle-info",
-            link: "/zh/#个人信息",
+            link: "/zh/#个人简介",
           },
         ],
-
-        // blog: {
-        //   description: "博士",
-        //   intro: "/zh/#个人信息",
-        // },
       },
     },
 

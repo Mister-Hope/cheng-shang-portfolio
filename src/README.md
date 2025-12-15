@@ -11,7 +11,7 @@ bgImage: /background.avif
 titles:
   - Theoretical Physics Researcher
   - World Explorer
-    
+
 medias:
   - icon: envelope
     name: RIKEN Email
@@ -40,7 +40,7 @@ medias:
 footer: false
 ---
 
-## About me
+## Profile
 
 <div style="font-size: 1.2em">
 
@@ -52,6 +52,7 @@ footer: false
 
   - ::envelope:: RIKEN Email: <cheng.shang@riken.jp>
   - ::brands:google:: Gmail: <shangc1204@gmail.com>
+  - <VPIcon icon="/utokyo.svg" /> UTokyo Email: <c-shang@iis.u-tokyo.ac.jp>
 
 - ::brands:orcid:: **ORCID**: [0000-0001-8393-2329](https://orcid.org/0000-0001-8393-2329)
 
@@ -61,55 +62,58 @@ footer: false
 
 - ::brands:x-twitter::: [@Shangc1204](https://x.com/Shangc1204)
 
+- ::heart:: **Interests**: B-boying (Breaking), Gomoku, Music, Running
+
 </div>
 
 ## Education
 
 <Experiences :items="experiences" />
 
-## Now! Special Collection Call for Papers
-- Welcome! Now Open for Submissions! Special Collection Call for Papers: Exception Points in non-Hermitian Systems
-- Journal: Discover Physics (Springer Nature)
-- Submission Deadline: 21 April, 2026; [Submit & Learn More](https://link.springer.com/collections/djheehghia)
-- If you are interested or have any questions, please contact: cheng.shang@riken.jp or shenhz458@nenu.edu.cn
+## Call for Papers
+
+**Special Collection: Exception Points in non-Hermitian Systems**
+
+- **Journal**: Discover Physics (Springer Nature)
+- **Submission Deadline**: 21 April, 2026
+- [Submit & Learn More](https://link.springer.com/collections/djheehghia)
+- For inquiries, please contact: <cheng.shang@riken.jp> or <shenhz458@nenu.edu.cn>
 
 ## News
 
-- 2025 Our work on "[Topological Quantum Batteries](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)" was featured in [PRL Trending](https://x.com/PhysRevLett/status/1924474721149542443).
-- 2025 Our work on "[Topological Quantum Batteries](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)" was featured in press releases by [RIKEN](https://www.riken.jp/en/news_pubs/research_news/pr/2025/20250513_2/index.html), also selected for inclusion in [RIKEN Research (Summer)](https://www.riken.jp/en/news_pubs/pubs/riken_research/2025/index.html), [Mynavi News](https://news.mynavi.jp/techplus/article/20250514-3319145/), [NIKKEI Tech Foresight](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC235SW0T20C25A5000000), [PHYS.ORG](https://phys.org/news/2025-06-topological-quantum-batteries-theoretical-framework.html#google_vignette), [Interesting Engineering](https://interestingengineering.com/energy/new-quantum-battery-design), [ФОКУС](https://focus.ua/digital/708987-kvantovye-batarei-smogut-zaryazhat-smartfony-za-sekundy-kak-etogo-dobyutsya-uchenye), [AGAlphaGalileo](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206), [MIRAGE](https://www.miragenews.com/advent-of-topological-quantum-battery-1477588/), [AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=10819), [Enerzine](https://www.enerzine.com/lavenement-de-la-batterie-quantique-topologique/165028-2025-06), [Methored UK](https://www.yourweather.co.uk/news/science/japanese-scientists-propose-a-quantum-battery-design-that-resists-energy-loss.html), and [BASIC thinking](https://www.basicthinking.de/blog/2025/11/12/topologische-quantenbatterie/).
-- 2024 As a Special Research Fellow, I joined the [Kuwahara team](https://kuwahara-quantum.com/en/people/) as a postdoctoral researcher on October 1st.
-- 2024 I attended the International Conference on Quantum Information Processing ([QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522)), the 19th Theory of Quantum Computation, Communication, and Cryptography ([TQC2024](https://tqc-conference.org/posters/?tgid=44)), and the international conference [Quantum Innovation](https://quantum-innovation2024.jp/program/poster_cc.html), where I presented a poster titled "Equivalence between Operator Spreading and Information Propagation".
-- 2024 I attended the graduation ceremony at the University of Tokyo on September 20 and was awarded a doctoral degree, with number: HAKU RI 7661.
-- 2022 and 2024 As a committee member, I organized the "Stat&QuantPhys Autumn and Winter School" workshops, namely [SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/) and [SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/).
-- 2021, 2022, 2023, and 2024 I presented a talk on [The Physical Society of Japan](https://www.jps.or.jp/english/) meeting.
-- 2021 I joined the [Hatano Laboratory](http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html) at the Department of Physics, the University of Tokyo, as a Japanese Government (MEXT) Scholarship student to start my doctoral program.
-- 2019 I gave a talk at the Symposium on Frontiers and Progress in Quantum Physics held at Inner Mongolia University.
-- 2017 I joined Prof. [Yi Xuexi's laboratory](https://cqs.nenu.edu.cn/) at the Center for Quantum Sciences to begin my master's research journey.
+- **2025** Our work on "[Topological Quantum Batteries](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)" was featured in [PRL Trending](https://x.com/PhysRevLett/status/1924474721149542443).
+- **2025** Our work on "[Topological Quantum Batteries](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)" was highlighted in press releases by [RIKEN](https://www.riken.jp/en/news_pubs/research_news/pr/2025/20250513_2/index.html) and selected for [RIKEN Research (Summer)](https://www.riken.jp/en/news_pubs/pubs/riken_research/2025/index.html). It also received coverage from [Mynavi News](https://news.mynavi.jp/techplus/article/20250514-3319145/), [NIKKEI Tech Foresight](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC235SW0T20C25A5000000), [PHYS.ORG](https://phys.org/news/2025-06-topological-quantum-batteries-theoretical-framework.html#google_vignette), [Interesting Engineering](https://interestingengineering.com/energy/new-quantum-battery-design), [ФОКУС](https://focus.ua/digital/708987-kvantovye-batarei-smogut-zaryazhat-smartfony-za-sekundy-kak-etogo-dobyutsya-uchenye), [AGAlphaGalileo](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/259206), [MIRAGE](https://www.miragenews.com/advent-of-topological-quantum-battery-1477588/), [AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=10819), [Enerzine](https://www.enerzine.com/lavenement-de-la-batterie-quantique-topologique/165028-2025-06), [Methored UK](https://www.yourweather.co.uk/news/science/japanese-scientists-propose-a-quantum-battery-design-that-resists-energy-loss.html), and [BASIC thinking](https://www.basicthinking.de/blog/2025/11/12/topologische-quantenbatterie/).
+- **2024** Joined the [Kuwahara team](https://kuwahara-quantum.com/en/people/) as a Postdoctoral Researcher (Special Research Fellow) on October 1st.
+- **2024** Presented a poster titled "Equivalence between Operator Spreading and Information Propagation" at [QIP2024](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522), [TQC2024](https://tqc-conference.org/posters/?tgid=44), and [Quantum Innovation 2024](https://quantum-innovation2024.jp/program/poster_cc.html).
+- **2024** Received Ph.D. degree (No. HAKU RI 7661) from the University of Tokyo on September 20.
+- **2022 & 2024** Organized the "Stat&QuantPhys Autumn and Winter School" workshops ([SQP2021](http://hatano-lab.iis.u-tokyo.ac.jp/manami/SQP2022/), [SQP2024](http://hatano-lab.iis.u-tokyo.ac.jp/norihiro/SQP2024/)) as a committee member.
+- **2021–2024** Presented talks at [The Physical Society of Japan](https://www.jps.or.jp/english/) meetings.
+- **2021** Joined the [Hatano Laboratory](http://hatano-lab.iis.u-tokyo.ac.jp/index-e.html) at the University of Tokyo as a MEXT Scholarship doctoral student.
+- **2019** Gave a talk at the Symposium on Frontiers and Progress in Quantum Physics at Inner Mongolia University.
+- **2017** Joined Prof. [Yi Xuexi's laboratory](https://cqs.nenu.edu.cn/) at the Center for Quantum Sciences for Master's research.
 
-## Representative Honors and Awards
+## Honors & Awards
 
-- 2024 Invited talk, [21st International Workshop on Pseudo-Hermitian Hamiltonians in Quantum Physics (PHHQP-XXI), Chania, Greece](https://events.physics.uoc.gr/event/1/page/5-speakers).
-- 2023 Best Poster Award, [the 5th International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS-2023), Beijing, China](http://en.baqis.ac.cn/news/detail/?cid=1764).
-- 2021 Japanese Government (MEXT) Doctoral Scholarships.
-- 2019 Chinese National Scholarship for Postgraduates.
+- **2024** Invited Talk, [21st International Workshop on Pseudo-Hermitian Hamiltonians in Quantum Physics (PHHQP-XXI)](https://events.physics.uoc.gr/event/1/page/5-speakers), Chania, Greece.
+- **2023** Best Poster Award, [5th International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS-2023)](http://en.baqis.ac.cn/news/detail/?cid=1764), Beijing, China.
+- **2021** Japanese Government (MEXT) Doctoral Scholarship.
+- **2019** Chinese National Scholarship for Postgraduates.
 
-## Doctoral Dissertation
+## Theses
 
 ::: center
+
+### Doctoral Dissertation
 
 [Suppression of Decoherence in Open Quantum Systems: Resonance and Topological Effects](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2024/thesis_shang.pdf)
 
-:::
-
-## Master’s Thesis
-
-::: center
+### Master’s Thesis
 
 [Nonreciprocal Transmission Based on Modulated Optomechanical Systems](https://service.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020826922.nh&uniplatform=OVERSEA&v=sSt0KBptiamCrq479eV4U9pQ6d_R80JGZPYorfpc6t2brw3BtiU0cM6tkMERVLXW)
 
 :::
 
-## Journal(Published)
+## Publications
 
 1. [Zhi-Guang Lu, Guo-Qing Tian, Xin-You Lü, and Cheng Shang, Topological Quantum Batteries, Phys. Rev. Lett. 134, 180401 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401)
 1. [Bo-Wang Zhang, Cheng Shang, J. Y. Sun, Zhuo-Cheng Gu, and X. X. Yi, Manipulating spectral transitions and photonic transmission in a non-Hermitian optical system through nanoparticle perturbations, Phys. Rev. A 111, 063702 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.063702)
@@ -119,7 +123,7 @@ footer: false
 1. [Cheng Shang, Hong-Zhi Shen, and Xue-Xi Yi, Nonreciprocity in a strongly coupled three-mode optomechanical circulatory system, Optics Express 27 (18), 25882-25901 (2019)](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-18-25882&id=417227)
 1. [Hong-Zhi Shen, Cheng Shang, Y. H. Zhou, and Xue-Xi Yi, Unconventional single-photon blockade in non-Markovian systems, Physical Review A 98 (2), 023856 (2018)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.023856)
 
-## Preprint
+## Preprints
 
 1. [Donghoon Kim, Yusuke Kimura, Hugo Mackay, Yosuke Mitsuhashi, Hideaki Nishikawa, Carla Rubiliani, Cheng Shang, Ayumi Ukai, and Tomotaka Kuwahara, Spectral Small-Incremental-Entangling: Breaking Quasi-Polynomial Complexity Barriers in Long-Range Interacting Systems, arXiv:2509.12014 (2025)](https://arxiv.org/abs/2509.12014).
 1. [Cheng Shang, Zhi-Guang Lu, Hayato Kinkawa, and Tomotaka Kuwahara, Operator Spreading and Information Propagation: Equivalence and Beyond, arXiv:2505.07955 (2025)](https://arxiv.org/abs/2505.07955)
@@ -132,7 +136,7 @@ footer: false
 1. [T. Z. Luan, Cheng Shang, H. Yi, J. L. Li, Yan-Hui Zhou, Shuang Xu, and H. Z. Shen, Nonreciprocal quantum router with non-Markovian environments, arXiv:2503.18647 (2025)](https://arxiv.org/abs/2503.18647)
 1. [Cheng Shang and H. Z. Shen, Coupling Enhancement and Symmetrization in Dissipative Optomechanical Systems, arXiv:2302.04897 (2025)](https://arxiv.org/abs/2302.04897)
 
-## Acknowledged works(Selected)
+## Acknowledged Contributions (Selected)
 
 1. [Yue-Zhou Li, Stochastic inflation as an open quantum system, arXiv: 2507.02070 (2025)](https://arxiv.org/abs/2507.02070).
 1. [M. E. Shirokov, Upper bounds on the Holevo quantity arising from the fundamental entropic inequality, arXiv: 2506.05335 (2025)](https://arxiv.org/abs/2506.05335).
@@ -141,8 +145,7 @@ footer: false
 1. [Yoshinaga Atsuki, Quantum Thermalization and Quantum Metrology in Quantum Ising Systems, 2023 PhD Theses (The University of Tokyo)](http://hatano-lab.iis.u-tokyo.ac.jp/thesis/dron2022/thesis_yoshinaga.pdf).
 1. [Hongchao Li, QUantum Many-Body Theory of Dissipative Superfluidity, 2023 Master Thesis (The University of Tokyo)](https://sites.google.com/view/hongchaoliquantum/).
 
-
-## Patent
+## Patents
 
 1. [Cheng Shang, Hui Zhao, Xuan Zhang, Fu-De Li, and He Bai, Grayscale Mechanical Random Number Generator: Testing and Usage Methodologies, CN Patent CN108,958,706 B (2023)](https://patents.google.com/patent/CN108958706B/en)
 
